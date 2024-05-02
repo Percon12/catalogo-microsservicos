@@ -6,8 +6,8 @@ Este Catálogo de Boas Práticas para o Desenvolvimento e Implantação de Micro
 
 #### Navegação Básica
 
-1. **Barra de Navegação Lateral**
-   * Uma barra de navegação lateral está disponível em todas as páginas do catálogo. Use-a para saltar rapidamente entre diferentes capítulos sem precisar retornar à página inicial.
+1. **Barras de Navegação Lateral**
+   * As barras de navegação lateral estão disponíveis em todas as páginas do catálogo e dentro das páginas por tópico. Use-as para saltar rapidamente entre diferentes sessões sem precisar retornar à página inicial.
 
 #### Explorando as Seções
 
