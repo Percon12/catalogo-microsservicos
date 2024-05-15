@@ -45,3 +45,14 @@ Em um aplicativo de comércio eletrônico durante a Black Friday:
 * **Microsserviço de Catálogo de Produtos**: Recebe mais consultas para informações de produtos.
 
 Utilizando uma plataforma como Kubernetes, esses microsserviços podem ser automaticamente escalados horizontalmente, adicionando mais instâncias para lidar com o aumento da carga, garantindo que o sistema continue a responder eficientemente às solicitações dos usuários.
+
+
+
+***
+
+### Referências
+
+1. RISINGSTACK ENGINEERING. **Designing a Microservices Architecture for Failure**. Disponível em: [https://blog.risingstack.com/designing-microservices-architecture-for-failure/](https://blog.risingstack.com/designing-microservices-architecture-for-failure/). Acesso em: 16 maio 2024.
+2. VMWARE TANZU. **Should That Be a Microservice? Part 5: Failure Isolation**. Disponível em: [https://tanzu.vmware.com/content/blog/should-that-be-a-microservice-part-5-failure-isolation](https://tanzu.vmware.com/content/blog/should-that-be-a-microservice-part-5-failure-isolation). Acesso em: 16 maio 2024.
+3. NGINX. **Building Microservices: Inter-Process Communication**. Disponível em: [https://www.nginx.com/blog/building-microservices-inter-process-communication/](https://www.nginx.com/blog/building-microservices-inter-process-communication/). Acesso em: 16 maio 2024.
+4. COMPUTER.ORG. **Microservices Design Patterns**. Disponível em: [https://www.computer.org/publications/tech-news/trends/microservices-design-patterns](https://www.computer.org/publications/tech-news/trends/microservices-design-patterns). Acesso em: 16 maio 2024.

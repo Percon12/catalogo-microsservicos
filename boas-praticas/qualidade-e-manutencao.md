@@ -43,3 +43,11 @@ Num sistema de gestão de conteúdo:
 
 * **Microsserviço de Gerenciamento de Usuários**: Regularmente atualizado para integrar patches de segurança e correções de vulnerabilidades.
 * **Microsserviço de Edição de Conteúdo**: Recebe melhorias de desempenho e atualizações de dependências para garantir que continua a funcionar de forma eficaz com novas versões de bibliotecas e frameworks.
+
+***
+
+### Referências
+
+1. ACCELQ. **Top 7 TDD Best Practices**. Disponível em: [https://www.accelq.com/blog/tdd-best-practices/](https://www.accelq.com/blog/tdd-best-practices/). Acesso em: 16 maio 2024.
+2. MARTIN FOWLER. **Test Driven Development**. Disponível em: [https://martinfowler.com/bliki/TestDrivenDevelopment.html](https://martinfowler.com/bliki/TestDrivenDevelopment.html). Acesso em: 16 maio 2024.
+3. NORDIC APIs. **Using Test-Driven Development for Microservices**. Disponível em: [https://nordicapis.com/using-test-driven-development-for-microservices/](https://nordicapis.com/using-test-driven-development-for-microservices/). Acesso em: 16 maio 2024.
