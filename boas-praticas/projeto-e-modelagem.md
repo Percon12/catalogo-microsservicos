@@ -49,11 +49,12 @@ Continuando o exemplo da rede de cinemas:
 
 ### Referências
 
-* MICROSOFT. **Best Practice - An Introduction To Domain-Driven Design**. Disponível em: [https://learn.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/](https://learn.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/). Acesso em: 16 maio 2024.
-* MOMENTS LOG. **The Role of Domain-Driven Design in Software Architecture**. Disponível em: https://www.momentslog.com/architecture/domain-driven-design-role-in-software-architecture. Acesso em: 16 maio 2024.
-* INFOQ. **Domain Driven Design and Development In Practice**. Disponível em: https://www.infoq.com/articles/domain-driven-design-in-practice/. Acesso em: 16 maio 2024.
-*   **Microservices.io**
+1. MICROSOFT. **Best Practice - An Introduction To Domain-Driven Design**. Disponível em: [https://learn.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/](https://learn.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/). Acesso em: 16 maio 2024.
+2.  **Microservices.io**
 
     RICHARDSON, Chris. **Pattern: Database per service**. Disponível em: [https://microservices.io/patterns/data/database-per-service.html](https://microservices.io/patterns/data/database-per-service.html). Acesso em: 16 maio 2024.
-* **Microsoft Learn**\
-  MICROSOFT. **Data considerations for microservices - Azure Architecture Center**. Disponível em: [https://learn.microsoft.com/en-us/azure/architecture/microservices/data-considerations](https://learn.microsoft.com/en-us/azure/architecture/microservices/data-considerations). Acesso em: 16 maio 2024.
+3. **Microsoft Learn**\
+   MICROSOFT. **Data considerations for microservices - Azure Architecture Center**. Disponível em: [https://learn.microsoft.com/en-us/azure/architecture/microservices/data-considerations](https://learn.microsoft.com/en-us/azure/architecture/microservices/data-considerations). Acesso em: 16 maio 2024.
+
+
+

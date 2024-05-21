@@ -59,18 +59,13 @@ Utilizando o Spring Cloud Config, um serviço de configuração centralizada, é
 
 ***
 
-
-
 ### Referências
 
-1. LOGROCKET. **3 methods for microservice communication**. Disponível em: https://blog.logrocket.com/3-methods-for-microservice-communication/. Acesso em: 16 maio 2024.
-2. NGINX. **Building Microservices: Inter-Process Communication**. Disponível em: [https://www.nginx.com/blog/building-microservices-inter-process-communication/](https://www.nginx.com/blog/building-microservices-inter-process-communication/). Acesso em: 16 maio 2024.
-3. SAYONE TECH. **Microservice Communication: A Complete Guide 2024**. Disponível em: https://www.sayonetech.com/blog/microservice-communication-guide/. Acesso em: 16 maio 2024.
-4. MICROSOFT. **Communication in a microservice architecture**. Disponível em: [https://learn.microsoft.com/en-us/dotnet/architecture/microservices/communication-in-microservice-architecture](https://learn.microsoft.com/en-us/dotnet/architecture/microservices/communication-in-microservice-architecture). Acesso em: 16 maio 2024.
-5. AMAZON WEB SERVICES. **Continuous Integration and Continuous Delivery (CI/CD)**. Disponível em: [https://aws.amazon.com/devops/continuous-integration/](https://aws.amazon.com/devops/continuous-integration/). Acesso em: 16 maio 2024.
-6. GOOGLE CLOUD. **Continuous Delivery & Continuous Integration**. Disponível em: https://cloud.google.com/learn/what-is-ci-cd. Acesso em: 16 maio 2024.
-7. RED HAT. **CI/CD for Microservices**. Disponível em: https://www.redhat.com/en/topics/devops/ci-cd-microservices. Acesso em: 16 maio 2024.
-8. SPRING. **Externalized Configuration**. Disponível em: [https://docs.spring.io/spring-boot/docs/current/reference/html/spring-boot-features.html#boot-features-external-config](https://docs.spring.io/spring-boot/docs/current/reference/html/spring-boot-features.html#boot-features-external-config). Acesso em: 16 maio 2024.
-9. DOCKER. **Configuration Management**. Disponível em: https://docs.docker.com/config/containers/configure/. Acesso em: 16 maio 2024.
-10. HASHICORP. **Consul for Service Configuration**. Disponível em: https://www.consul.io/docs/services/configuration. Acesso em: 16 maio 2024.
+1. NGINX. **Building Microservices: Inter-Process Communication**. Disponível em: [https://www.nginx.com/blog/building-microservices-inter-process-communication/](https://www.nginx.com/blog/building-microservices-inter-process-communication/). Acesso em: 16 maio 2024.
+2. MICROSOFT. **Communication in a microservice architecture**. Disponível em: [https://learn.microsoft.com/en-us/dotnet/architecture/microservices/communication-in-microservice-architecture](https://learn.microsoft.com/en-us/dotnet/architecture/microservices/communication-in-microservice-architecture). Acesso em: 16 maio 2024.
+3. AMAZON WEB SERVICES. **Continuous Integration and Continuous Delivery (CI/CD)**. Disponível em: [https://aws.amazon.com/devops/continuous-integration/](https://aws.amazon.com/devops/continuous-integration/). Acesso em: 16 maio 2024.
+4. GOOGLE CLOUD. **Continuous Integration**. Disponível em: [https://cloud.google.com/solutions/continuous-integration?hl=pt-br](https://cloud.google.com/solutions/continuous-integration?hl=pt-br). Acesso em: 16 maio 2024.
+5. **GOOGLE CLOUD. Continuous Delivery Solutions.** Disponível em: [https://cloud.google.com/solutions/continuous-delivery?hl=pt-br](https://cloud.google.com/solutions/continuous-delivery?hl=pt-br). Acesso em: 21 mai. 2024.
+6. RED HAT. **CI/CD for Microservices**. Disponível em: [https://www.redhat.com/en/technologies/cloud-computing/openshift/ci-cd](https://www.redhat.com/en/technologies/cloud-computing/openshift/ci-cd). Acesso em: 16 maio 2024.
+7. SPRING. **Externalized Configuration**. Disponível em: [https://docs.spring.io/spring-boot/docs/current/reference/html/spring-boot-features.html#boot-features-external-config](https://docs.spring.io/spring-boot/docs/current/reference/html/spring-boot-features.html#boot-features-external-config). Acesso em: 16 maio 2024.
 
