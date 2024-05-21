@@ -23,7 +23,3 @@
 * [Segurança e Compliance](boas-praticas/seguranca-e-compliance.md)
 * [Performance e Otimização](boas-praticas/performance-e-otimizacao.md)
 * [Cultura e Práticas de Equipe](boas-praticas/cultura-e-praticas-de-equipe.md)
-
-***
-
-* [Referências](referencias.md)

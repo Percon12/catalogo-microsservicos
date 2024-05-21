@@ -42,3 +42,17 @@ Numa organização de tecnologia focada em soluções de inteligência artificia
 
 * **Hackathons**: Eventos regulares onde os membros da equipe são encorajados a experimentar novas ideias e tecnologias, muitas vezes levando ao desenvolvimento de soluções inovadoras que podem ser integradas aos produtos existentes.
 * **Programas de Aprendizado e Desenvolvimento**: Oferecimento de cursos e workshops para que os desenvolvedores se atualizem sobre as últimas tendências e tecnologias em microsserviços, cloud computing, segurança, etc.
+
+***
+
+### Referências
+
+**GARTNER. How to Create a Culture of Innovation.** Disponível em: [https://www.gartner.com/en/webinar/432279/1019517](https://www.gartner.com/en/webinar/432279/1019517). Acesso em: 21 mai. 2024.
+
+**FORBES. How You Can Foster a Culture of Innovation to Drive Growth.** Disponível em: [https://www.forbes.com/sites/forbestechcouncil/2023/06/29/how-you-can-foster-a-culture-of-innovation-to-drive-growth/](https://www.forbes.com/sites/forbestechcouncil/2023/06/29/how-you-can-foster-a-culture-of-innovation-to-drive-growth/). Acesso em: 21 mai. 2024.
+
+**SPRINGER. Microservices: A Performance Tester’s Dream or Nightmare?.** Disponível em: [https://link.springer.com/article/10.1007/s00450-016-0337-0](https://link.springer.com/article/10.1007/s00450-016-0337-0). Acesso em: 21 mai. 2024.
+
+**SCRUM. Microservices and Scrum.** Disponível em: [https://www.scrum.org/forum/scrum-forum/34773/microservices-and-scrum](https://www.scrum.org/forum/scrum-forum/34773/microservices-and-scrum). Acesso em: 21 mai. 2024.
+
+**GITLAB. Manage Agile Teams with Microservices.** Disponível em: [https://about.gitlab.com/blog/2019/08/23/manage-agile-teams-with-microservices/](https://about.gitlab.com/blog/2019/08/23/manage-agile-teams-with-microservices/). Acesso em: 21 mai. 2024.
