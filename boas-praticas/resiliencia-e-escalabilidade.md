@@ -31,6 +31,12 @@ Suponha um sistema de reserva de passagens aéreas:
 
 Se o microsserviço de Pagamentos ficar indisponível, um circuit breaker pode ser ativado para evitar chamadas desnecessárias a esse serviço, utilizando um mecanismo de fallback, como emitir um voucher para pagamento posterior, garantindo que o serviço de Reservas permaneça operacional.
 
+#### POC:
+
+Para demonstrar na prática essa boa prática, desenvolvemos uma Prova de Conceito (PoC) na qual implementamos um microsserviço específico utilizando o padrão Circuit Breaker para aumentar a resiliência do sistema e prevenir falhas em cascata entre microsserviços.
+
+Para acessar os detalhes, clique no link: [https://tcc-organization.gitbook.io/trabalho-de-conclusao-de-curso/pocs/poc-3](https://tcc-organization.gitbook.io/trabalho-de-conclusao-de-curso/pocs/poc-3)
+
 ***
 
 ## Escalabilidade

@@ -32,6 +32,12 @@ Suponha que estamos desenvolvendo um aplicativo para uma rede de cinemas. Podemo
 
 Cada um desses microsserviços opera de forma independente, com seu próprio banco de dados e lógica de negócios, focando exclusivamente em seu domínio.
 
+#### POC:
+
+Para demonstrar na prática essa boa prática, desenvolvemos uma Prova de Conceito (PoC) na qual implementamos um microsserviço específico baseado em um domínio de negócio.
+
+Para acessar os detalhes, clique no link: [https://tcc-organization.gitbook.io/trabalho-de-conclusao-de-curso/pocs/poc-1](https://tcc-organization.gitbook.io/trabalho-de-conclusao-de-curso/pocs/poc-1)
+
 ***
 
 ## Decomposição de Dados
@@ -55,6 +61,3 @@ Continuando o exemplo da rede de cinemas:
     RICHARDSON, Chris. **Pattern: Database per service**. Disponível em: [https://microservices.io/patterns/data/database-per-service.html](https://microservices.io/patterns/data/database-per-service.html). Acesso em: 16 maio 2024.
 3. **Microsoft Learn**\
    MICROSOFT. **Data considerations for microservices - Azure Architecture Center**. Disponível em: [https://learn.microsoft.com/en-us/azure/architecture/microservices/data-considerations](https://learn.microsoft.com/en-us/azure/architecture/microservices/data-considerations). Acesso em: 16 maio 2024.
-
-
-

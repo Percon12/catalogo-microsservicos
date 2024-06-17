@@ -29,7 +29,13 @@ Imagine um aplicativo de entrega de alimentos onde diferentes microsserviços pr
 * **Microsserviço de Pedidos**: Recebe pedidos dos clientes e envia solicitações ao microsserviço de Cozinha.
 * **Microsserviço de Cozinha**: Gerencia a preparação dos alimentos e notifica o microsserviço de Entrega quando o pedido está pronto.
 
-A comunicação entre esses serviços é feita por meio de APIs RESTful, onde cada serviço expõe endpoints específicos para receber requisições ou enviar respostas.
+A comunicação entre esses serviços é feita por meio de APIs RESTful, onde cada serviço expõe endpoints específicos para receber requisições ou enviar respostas. Para facilitar e gerenciar essa comunicação, um API Gateway é frequentemente utilizado. O API Gateway atua como um ponto de entrada centralizado para todas as requisições, roteando-as para os microsserviços apropriados, aplicando políticas de segurança, realizando a agregação de dados e oferecendo outras funcionalidades essenciais para uma comunicação eficiente e segura.
+
+#### POC:
+
+Para demonstrar na prática essa boa prática, desenvolvemos uma Prova de Conceito (PoC) na qual implementamos um microsserviço específico onde as comunicações e chamadas de API são feitas por meio de um Gateway.
+
+Para acessar os detalhes, clique no link: [https://tcc-organization.gitbook.io/trabalho-de-conclusao-de-curso/pocs/poc-2](https://tcc-organization.gitbook.io/trabalho-de-conclusao-de-curso/pocs/poc-2)
 
 ***
 
