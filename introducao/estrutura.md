@@ -16,6 +16,10 @@ O catálogo é organizado em várias seções que cobrem aspectos fundamentais d
 10. #### Performance e Otimização
 11. #### Cultura e Práticas de Equipe
 
-Desenvolvimento e Operação (DevOps)
+Cada seção oferece uma descrição detalhada das práticas, discute os benefícios e desafios associados e algumas apresentam uma POC validada que demonstra como essas práticas são implementadas efetivamente.
 
-Cada seção oferece uma descrição detalhada das práticas, discute os benefícios e desafios associados e apresenta POCs validados que demonstram como essas práticas são implementadas efetivamente.
+### POCs
+
+Uma Prova de Conceito (PoC) é uma demonstração prática utilizada para verificar a viabilidade de uma ideia, conceito ou método. No contexto de desenvolvimento de software, uma PoC é implementada para validar a funcionalidade e a eficácia de uma solução proposta em um ambiente controlado antes de seu desenvolvimento completo.
+
+Em nosso projeto, as PoCs serão utilizadas para validar a implementação de diversas boas práticas. Cada PoC foi projetada para testar aspectos específicos das melhores práticas de desenvolvimento de microsserviços, garantindo que elas sejam aplicáveis e eficazes em cenários reais. Essas PoCs nos permitirão identificar possíveis problemas, avaliar o desempenho e assegurar que os requisitos técnicos e de negócios sejam atendidos adequadamente. Dessa forma, podemos tomar decisões informadas sobre a continuidade ou ajustes necessários no projeto.
